@@ -264,7 +264,7 @@ const DashboardSidebar = (props) => {
                   component={RouterLink}
                   to="/pricing"
                 >
-                  Lumio
+                  LGCY X
                   {/* {user.plan} */}
                 </Link>
               </Typography>
