@@ -264,7 +264,7 @@ const DashboardSidebar = (props) => {
                   component={RouterLink}
                   to="/pricing"
                 >
-                  LGCY X
+                  (Partner)
                   {/* {user.plan} */}
                 </Link>
               </Typography>
